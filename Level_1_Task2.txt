@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, intial-scale=1.0">
+	<title>profile Card Design - Easy Tutorial</title>
+	<link rel="stylesheet" href="Portifolio.css">
+</head>
+<body>
+	<div class="container">
+		<div class="card">
+			<img src="New folder/Sarthak.jpeg"class="profile-img">
+			<div class="info">
+				<h2><b>Sarthak Phadtare</b></h2>
+					<p>I'm a Full stack web developer.</p>
+				<ul>
+					<li><img src="New folder/location.png"> Pune Maharashtra, INDIA</li>
+					<li><img src="New folder/website.png"> Sarthakweb.com</li>
+					<li><img src="New folder/instagram.png"> Sarthak_Phadtare</li>
+				</ul>
+				<div class="links">
+					<a href="New folder/Ssp.CV.pdf" download><img src="New folder/download.png">Download CV</a>
+					<a href="https://wa.me/+8379030289" target="_blank" class="msg-btn">send a message</a>
+				</div>
+	</div>
+	<img src="New folder/share.png" class="share-icon">
+		</div>
+			</div>
+
+
+</body>
+</html>
